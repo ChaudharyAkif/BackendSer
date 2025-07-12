@@ -7,7 +7,7 @@ const ConnectDb = require("./config/db")
 require("dotenv").config()
 
 const app = express()
-const PORT = process.env.PORT || "https://backend-server-smoky.vercel.app/"
+const PORT = process.env.PORT || "https://backend-ser-ga4m.vercel.app/"
 
 // Middleware
 app.use(
